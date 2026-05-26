@@ -53,7 +53,6 @@ projeto_missao_espacial/
 ├── docs/
 │   ├── EXPLICACAO_LOGICA.md    # Lógica de cada módulo (entregável)
 │   ├── FLUXOGRAMA.md           # Fluxograma do sistema (Mermaid)
-│   ├── COMO_COMPILAR_VS.md     # Passo a passo no Visual Studio
 │   └── DEMONSTRACAO.md         # Roteiro da demonstração prática
 ├── .gitignore
 ├── LICENSE
@@ -61,11 +60,6 @@ projeto_missao_espacial/
 ```
 
 ---
-
-## 🔧 Como Compilar e Executar
-
-### Visual Studio (Windows)
-Veja o passo a passo detalhado em [`docs/COMO_COMPILAR_VS.md`](docs/COMO_COMPILAR_VS.md).
 
 Resumo:
 1. Crie um projeto **"Console App"** em C (não C++).
