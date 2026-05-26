@@ -1,7 +1,7 @@
 # 🚀 Sistema de Monitoramento de Missão Espacial
 
 > **GS2026.1 — Data Structures and Algorithms**
-> **Professor:** Toshio
+> **Professor:** Erick Toshio Yamamoto
 > **FIAP — 1º Semestre de 2026**
 
 Sistema desenvolvido em **linguagem C** para monitoramento em tempo real de uma missão espacial experimental. O programa recebe dados simulados de sensores (temperatura, energia, comunicação), aplica regras de análise automática, emite alertas visuais e mantém um histórico organizado das leituras utilizando estrutura de dados do tipo **buffer circular**.
